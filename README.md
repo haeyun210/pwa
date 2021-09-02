@@ -1,1 +1,2 @@
-# pwa
+# pwa test
+& serviceworker.js
